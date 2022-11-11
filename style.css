@@ -89,7 +89,7 @@ nav {
 
   /* Create fade anumation */
   opacity: 0;
-  transition: all 1s;
+  /* transition: all 1s; */
 }
 
 .balance {
@@ -288,4 +288,8 @@ h2 {
 
 .timer {
   font-weight: 600;
+}
+
+.hidden {
+  display: none;
 }
